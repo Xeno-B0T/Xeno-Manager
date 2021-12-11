@@ -1,14 +1,14 @@
 {
-      "name": "PglRobot",
+      "name": "Xeno Manager",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "PglRobot"
+         "XenoManager"
       ],   
-   "repository": "https://github.com/iisgaurav/PglRobot",
+   "repository": "https://github.com/XENO-B0T/Xeno-Manager",
    "addons": [
       {
          "options": {
@@ -41,16 +41,16 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1100735944"
+         "value": "1698071935"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "iisgaurav"
+         "value": "SempleBoy"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: PglRobot. If this ever points to PglRobot support than consider you made an enemy.",
          "required": true,
-         "value": "AuraXSupport"
+         "value": "secretgroupc"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
