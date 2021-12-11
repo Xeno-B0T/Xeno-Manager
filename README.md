@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://telegra.ph/file/06129d917642f323f77a3.jpg">
+  <img src="https://te.legra.ph/file/63093ac79dab198326440.jpg">
 </p>
 
 
-<p align="center"><strong>PglRobot is an extraordinary telegram group manager bot developed with the help of bots available in Telegram.</strong></p>
+<p align="center"><strong>Xeno Manager is an extraordinary telegram group manager bot developed with the help of bots available in Telegram.</strong></p>
 
 
 <h1> How to setup/deploy</h1>
@@ -28,11 +28,11 @@ defaults set in the sample_config, hence making it easier to upgrade.
 
 An example `config.py` file could be:
 ```
-from PglRobot.sample_config import Config
+from XenoManager.sample_config import Config
 
 class Development(Config):
-    OWNER_ID = 1100735944 # your telegram ID
-    OWNER_USERNAME = "iisgaurav"  # your telegram username
+    OWNER_ID = 1698071935 # your telegram ID
+    OWNER_USERNAME = "SempleBoy"  # your telegram username
     API_KEY = "your bot api key"  # your api key, as provided by the @botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     JOIN_LOGGER = '-1234567890' # some group chat that your bot is a member of
@@ -177,8 +177,8 @@ For starters click on this button
   
 
 
-## CREDITS 📍
-The bot is based on the work done by Gaurav. This repo was just revamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
+## [ cREDITS ]
+The bot is based on the work done by Rijul. This repo was just revamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
 
 
 Any other authorship/credits can be seen through the commits.
